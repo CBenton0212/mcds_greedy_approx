@@ -5,7 +5,7 @@ int MCDS_MAX_DEGREE = 0;
 
 void mcds() {  
   ArrayList<Entity> A = new ArrayList<Entity>(nodes);
-  ArrayList<Entity> B = new ArrayList<Entity>(nodes);
+  //ArrayList<Entity> B = new ArrayList<Entity>(nodes);
   ArrayList<Entity> C = new ArrayList<Entity>();
   boolean[][] G = new boolean[NUMBER_OF_NODES][NUMBER_OF_NODES];
   boolean[][] mcds_edges = new boolean[NUMBER_OF_NODES][NUMBER_OF_NODES];

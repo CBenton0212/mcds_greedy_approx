@@ -8,10 +8,11 @@ void keyPressed() {
   if (key == '5') setNumberOfNodes(500);
   
   if (key == 'n') initNodes();
-  if (key == 'p') play = !play;
-  if (key == 'r') showRange = !showRange;
   if (key == 'e') showEdges = !showEdges;
+  if (key == 'r') showRange = !showRange;
+  
   if (key == 'm') showMCDS = !showMCDS;
   if (key == 'k') showMCDSRange = !showMCDSRange;
   
+  if (key == 'p') play = !play;
 }
