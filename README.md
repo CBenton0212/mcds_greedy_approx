@@ -4,7 +4,7 @@
 
 ![mcds demo image](./MCDS_Demo/images/mcds_demo.png)
 
-[Wireless ad hoc networks (WANETS)](https://en.wikipedia.org/wiki/Wireless_ad_hoc_network) rely on a decentralized, on demand, peer-to-peer network where each node on the network participates in the routing of messages. Usage of WANETs is becoming increasingly more popular with the rise of IoT and the growth of sensory networks.
+[Wireless ad hoc networks (WANETS)](https://en.wikipedia.org/wiki/Wireless_ad_hoc_network) rely on a decentralized, on demand, peer-to-peer network where each node on the network participates in the routing of messages. The usage of WANETs is becoming more popular with the rise of IoT and the growth of sensory networks.
 
 Typically, nodes on a WANET have a limited range of transmission and therefore cannot directly communicate will all other nodes on the network. Nodes will instead rely on passing messages through a set of intermediary nodes, known as the "backbone", until a message reaches its desired recipient. The "backbone" should be reachable by all nodes on the network and will ideally be as small as possible to ensure efficient communication.
 
